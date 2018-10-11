@@ -1,0 +1,8 @@
+D:\Homework\XML\zyh1005\zyh1005\bin\Release\netcoreapp2.1\zyh1005.deps.json
+D:\Homework\XML\zyh1005\zyh1005\bin\Release\netcoreapp2.1\zyh1005.dll
+D:\Homework\XML\zyh1005\zyh1005\bin\Release\netcoreapp2.1\zyh1005.pdb
+D:\Homework\XML\zyh1005\zyh1005\obj\Release\netcoreapp2.1\zyh1005.csproj.CoreCompileInputs.cache
+D:\Homework\XML\zyh1005\zyh1005\obj\Release\netcoreapp2.1\zyh1005.AssemblyInfoInputs.cache
+D:\Homework\XML\zyh1005\zyh1005\obj\Release\netcoreapp2.1\zyh1005.AssemblyInfo.cs
+D:\Homework\XML\zyh1005\zyh1005\obj\Release\netcoreapp2.1\zyh1005.dll
+D:\Homework\XML\zyh1005\zyh1005\obj\Release\netcoreapp2.1\zyh1005.pdb
